@@ -1,0 +1,22 @@
+resourceDir = "../resources"
+title = "d10nysus web blog"
+baseURL = 'https://d10nysus.nagoya/'
+languageCode = 'en-us'
+theme = 'ananke'
+
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[services.googleAnalytics]
+id = ''
+
+
+[params]
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "d10nysus' wild ride"
+featured_image_class = "cover bg-top"
+cover_dimming_class = "bg-black-60"
+recent_posts_number = 3
