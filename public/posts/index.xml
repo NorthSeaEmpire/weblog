@@ -6,7 +6,14 @@
     <description>Recent content in Posts on d10nysus web blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 03:50:12 -0500</lastBuildDate>
     <atom:link href="https://d10nysus.nagoya/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://d10nysus.nagoya/posts/intro/</link>
+      <pubDate>Tue, 31 Dec 2024 03:50:12 -0500</pubDate>
+      <guid>https://d10nysus.nagoya/posts/intro/</guid>
+      <description>&lt;p&gt;Grettings, if you happened upon this blog (without knowing me personally or given the link by me) via the interweb&amp;hellip;.you have waaaay too much free time on your hands&#xA;but, hopefully I can provide some interesting knowledge for your efforts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Currently I am a cybersecurity engineer. My primary background is in offensive security but I do all sorts of stuff related to the field.&#xA;Iv&amp;rsquo;e done some more niche research in the field such as satellite security and android OS security. I am by  no means an expert but,&#xA;I fint it interesting nevertheless. Even though I am trying to move away from the security industry I may post infomation about sats and android here (from my own personal research).&#xA;There isn&amp;rsquo;t a lot of info about sats in particular on the internet and there can be a few misconceptions to clear up as well. My main goal is to switch industries to&#xA;game design and development.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
